@@ -1,1 +1,1 @@
-print("hello")
+checking = "hello"
